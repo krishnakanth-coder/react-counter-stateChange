@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  padding: 15px;
+  background-color: #ff3f88;
+
+  border-radius: 10px;
+}
+.header {
+  align-self: flex-start;
+}
+.count-value {
+  background-color: blueviolet;
+  color: #ffffff;
+  padding: 0px 10px 0px 10px;
+}
+.button {
+  background-color: blue;
+  color: #ffffff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
